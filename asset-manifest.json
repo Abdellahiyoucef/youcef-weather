@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youcef-weather/static/css/main.6a5ef983.css",
+    "main.js": "/youcef-weather/static/js/main.182f6eb1.js",
+    "index.html": "/youcef-weather/index.html",
+    "main.6a5ef983.css.map": "/youcef-weather/static/css/main.6a5ef983.css.map",
+    "main.182f6eb1.js.map": "/youcef-weather/static/js/main.182f6eb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a5ef983.css",
+    "static/js/main.182f6eb1.js"
+  ]
+}
